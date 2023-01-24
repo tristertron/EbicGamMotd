@@ -1,1 +1,3 @@
 Welcome to the Beta!!!
+Added Better Lighting.
+Added Slippery Walls.
